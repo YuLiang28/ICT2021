@@ -2,3 +2,4 @@
 
 ### numpy没有样本方差，var()就是总体方差
 
+test -Chu
