@@ -9,3 +9,6 @@ https://www.bilibili.com/video/av73110633
 
 # 深度学习
 http://cs229.stanford.edu/notes2021spring/notes2021spring/
+
+# 标准数据集
+https://machinelearningmastery.com/standard-machine-learning-datasets/
