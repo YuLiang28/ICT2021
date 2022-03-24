@@ -24,3 +24,6 @@ https://motchallenge.net/
 
 # 机器学习名词
 https://zhuanlan.zhihu.com/p/25197792
+
+# AILearning
+https://ailearning.apachecn.org/
