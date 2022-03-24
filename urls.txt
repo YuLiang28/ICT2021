@@ -21,3 +21,6 @@ https://cbmm.mit.edu/sites/default/files/documents/BMM%202018%20-%20Deep%20Learn
 
 # Multiple Object Tracking Benchmark 视频数据集
 https://motchallenge.net/
+
+# 机器学习名词
+https://zhuanlan.zhihu.com/p/25197792
