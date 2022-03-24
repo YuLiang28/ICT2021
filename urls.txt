@@ -27,3 +27,6 @@ https://zhuanlan.zhihu.com/p/25197792
 
 # AILearning
 https://ailearning.apachecn.org/
+
+# ApacheCN 人工智能知识树
+https://apachecn.org/#/docs/tree/README.md
