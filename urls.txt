@@ -30,3 +30,16 @@ https://ailearning.apachecn.org/
 
 # ApacheCN 人工智能知识树
 https://apachecn.org/#/docs/tree/README.md
+
+
+# Spark 编程基础 林子雨
+https://dblab.xmu.edu.cn/post/10482/
+
+# RDD 原理
+http://www.burukanke.com/2021/11/01/projects/Apach%20Spark%20RDD%E8%AE%BA%E6%96%87/#2、Resilient-Distributed-Datasets（RDDs）
+
+# linux 就该这么学
+https://www.linuxprobe.com/docs/LinuxProbe.pdf
+
+# 正则 reg
+https://regex101.com/
