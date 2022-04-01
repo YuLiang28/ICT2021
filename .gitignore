@@ -1,4 +1,4 @@
 datasets/instacart/*.csv
 datasets/facebook-v-predicting-check-ins/*.csv
 MachineLearning/out/
-digit-recognizer/*.csv
+datasets/digit-recognizer/*.csv
